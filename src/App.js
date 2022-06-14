@@ -1,4 +1,4 @@
-import './App.css';
+
 import Addshop from './Components/Addshop';
 import Navbar from './Components/Navbar';
 import Shops from './Components/Shops';
